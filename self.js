@@ -24,7 +24,7 @@ const xbox = require('node-xbox')(config.XBOX.apikey || '')
 configValidator.check(config, log)
 
 // Setup discord client
-const self = new Eris(config.token)
+const self = new Eris(process.env.TOKEN)
 let isReady = false
 
 // Pass config and constants to self
