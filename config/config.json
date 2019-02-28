@@ -4,7 +4,7 @@
   "prefix": "*",
   "rotatePlayingGame": false,
   "rotatePlayingGameTime" : 10000,
-  "rotatePlayingGameInStreamingStatus": true,
+  "rotatePlayingGameInStreamingStatus": false,
   "rotateAvatarImage": true,
   "rotateAvatarImageTime" : 600000,
   "defaultStatus": "idle",
