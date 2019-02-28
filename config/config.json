@@ -1,5 +1,5 @@
 {
-  "token": "process.ENV.TOKEN",
+  "token": "process.env.TOKEN",
   "ownerID": "550475100689006592",
   "prefix": "*",
   "rotatePlayingGame": true,
