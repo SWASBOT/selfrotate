@@ -3,7 +3,7 @@
   "ownerID": "521450927471722516",
   "prefix": "*",
   "rotatePlayingGame": true,
-  "rotatePlayingGameTime" : 5000,
+  "rotatePlayingGameTime" : 10000,
   "rotatePlayingGameInStreamingStatus": true,
   "rotateAvatarImage": true,
   "rotateAvatarImageTime" : 10000,
