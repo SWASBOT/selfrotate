@@ -2,7 +2,7 @@
   "token": "process.env.TOKEN",
   "ownerID": "521450927471722516",
   "prefix": "*",
-  "rotatePlayingGame": true,
+  "rotatePlayingGame": false,
   "rotatePlayingGameTime" : 10000,
   "rotatePlayingGameInStreamingStatus": true,
   "rotateAvatarImage": true,
