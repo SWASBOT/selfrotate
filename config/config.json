@@ -3,10 +3,10 @@
   "ownerID": "521450927471722516",
   "prefix": "*",
   "rotatePlayingGame": true,
-  "rotatePlayingGameTime" : 10000,
+  "rotatePlayingGameTime" : 1000,
   "rotatePlayingGameInStreamingStatus": true,
   "rotateAvatarImage": true,
-  "rotateAvatarImageTime" : 600000,
+  "rotateAvatarImageTime" : 10000,
   "defaultStatus": "idle",
   "PSN": {
     "enabled": false,
