@@ -5,7 +5,7 @@
   "rotatePlayingGame": true,
   "rotatePlayingGameTime" : 10000,
   "rotatePlayingGameInStreamingStatus": false,
-  "rotateAvatarImage": true,
+  "rotateAvatarImage": false,
   "rotateAvatarImageTime" : 600000,
   "defaultStatus": "idle",
   "PSN": {
